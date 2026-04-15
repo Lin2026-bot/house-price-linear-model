@@ -210,4 +210,4 @@ See repository structure for details on data, notebooks, and source code organiz
 
 Full methodology and analysis are documented in:
 
-📎 `report/Assignment1.pdf`
+📎 `house_price_report.pdf`
