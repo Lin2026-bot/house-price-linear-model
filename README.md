@@ -182,8 +182,20 @@ Interpretability analysis based on Ridge coefficients reveals:
 ## 🚀 How to Run
 
 ```bash id="runproj"
+# 1. Clone the repository
+git clone https://github.com/your-username/house-price-linear-model.git
+cd house-price-linear-model
+
+# 2. Create virtual environment (recommended)
+python -m venv venv
+source venv/bin/activate   # Mac/Linux
+venv\Scripts\activate      # Windows
+
+# 3. Install dependencies
 pip install -r requirements.txt
-python src/train.py
+
+# 4. Launch Jupyter Notebook
+jupyter notebook
 ```
 
 ---
